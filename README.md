@@ -73,5 +73,9 @@ Index Type	LIBOR	5250000.02	12/29/2017
 
 
 
-You can find more details at
-https://finpricing.com/knowledge.html
+References:
+
+https://finpricing.com/lib/EqRangeAccrual.html
+
+https://bitbucket.org/cmrm11/iramortizingcap/downloads/IrAmortizingCap-25.pdf
+
